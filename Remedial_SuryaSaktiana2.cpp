@@ -14,5 +14,4 @@ int main() {
     cin >> N;
     cout << "Bilangan dari 1 hingga " << N << " adalah: ";
     Bilangan(N);
-    return 0;
 }
