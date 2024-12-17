@@ -15,6 +15,5 @@ int main() {
     int N;
     cout << "Masukkan nilai N: ";
     cin >> N;
-    cout << "Jumlah bilangan genap dari 1 hingga " << N << " adalah: " << Bilangan(N) << endl;
-    return 0;
+    cout << "Jumlah bilangan genap dari 1 hingga " << N << " adalah: " << Bilangan(N);
 }
